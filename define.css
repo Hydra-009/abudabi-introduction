@@ -1,0 +1,26 @@
+.index-background-class {
+    background-image: url("images/colnish.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.index-text-class {
+    text-shadow: #FC0 1px 0 3px;
+}
+
+.SB-background-class {
+    background-image: url("images/saadiyat-left.jpg"), url(images/saadiyat-right.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: left, right;
+    display: flex, flex;
+    justify-content: flex-end, flex-end;
+}
+
+.EDT-background-class {
+    background-image: url("images/edihud-left.jpg"), url(images/edihud-right.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: left, right;
+    display: flex, flex;
+    justify-content: flex-end, flex-end;
+}
